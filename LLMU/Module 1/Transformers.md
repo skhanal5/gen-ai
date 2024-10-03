@@ -34,18 +34,20 @@
 		* Write a story => Write(1) a(2) story(3)
 #### Transformer Block
 * Purpose: predict the next word in this sentence
-* This is where the attention component is used
+* It is comprised of two components:
 	* [[Attention]]
-* Each transformer block is comprised of an attention component
-	* Each block has the goal of predicting a word
-	* This attention component is tied to a feedforward neural network that accomplishes that goal
-* Transformer block are  chained together, taking the result of the previous block
-* Outputs a score for each word, highest score is given the word that is most likely to be next
+	* Feedforward
+* Attention
+	* Determines the context of the text
+* Feedforward component
+	* Uses context to to guess the next word
+* Each transformer block produces a score for each word it thinks is next
+	* highest score is given the word that is most likely to be next
 #### Softmax Layer
  * Turns the score from the transformer block into probabilities
  * Higher score = higher probabilities
  * Sample out of each probability to get the next word
- * Output is the word
+ * Output is the word we select
 #### Repeat
 * Using the output of the softmax layer, repeat everything above
 ### Post Training
