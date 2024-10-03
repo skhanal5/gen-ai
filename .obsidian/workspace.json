@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMU/Module 1/Transformers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLMU/Module 1/Transformers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLMU/Module 1/Transformers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMU/Module 1/Transformers.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,15 +155,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12ce66c87f490515",
+  "active": "711f6bb5fb3735e8",
   "lastOpenFiles": [
-    "LLMU/Module 1/Similarity.md",
-    "LLMU/Module 1/Attention.md",
-    "LLMU/Module 1/Transformers.md",
+    "Cohere LLM University/LLM Basics/Transformers.md",
+    "Cohere LLM University/Module 2",
+    "Cohere LLM University/LLM Basics/Similarity.md",
+    "Cohere LLM University/LLM Basics/Attention.md",
     "README.md",
-    "LLMU/Module 1/Word and Sentence Embeddings.md",
-    "LLMU/Module 1",
-    "LLMU",
+    "Cohere LLM University/LLM Basics/Word and Sentence Embeddings.md",
+    "Cohere LLM University/LLM Basics",
+    "Cohere LLM University",
     "Cohere LLM"
   ]
 }
