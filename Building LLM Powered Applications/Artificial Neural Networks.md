@@ -1,3 +1,6 @@
+### About
+* LLM's are a type of artificial neural network
+* Based on the brain's structure & functionality
 ### Structure of ANN's
 * Smallest unit in an ANN is a neuron 
 * Neurons are layered with connections in between
