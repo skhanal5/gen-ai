@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b43c55ed0c7d19e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building LLM Powered Applications/Artificial Neural Network Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Building LLM Powered Applications/Artificial Neural Network Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Building LLM Powered Applications/Artificial Neural Network Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Building LLM Powered Applications/Artificial Neural Network Architectures.md"
               }
             }
           },
@@ -155,13 +168,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "711f6bb5fb3735e8",
+  "active": "b43c55ed0c7d19e0",
   "lastOpenFiles": [
+    "Building LLM Powered Applications/Artificial Neural Networks.md",
+    "Building LLM Powered Applications/Artificial Neural Network Architectures.md",
+    "README.md",
+    "Untitled",
+    "Building LLM Powered Applications",
+    "General",
     "Cohere LLM University/LLM Basics/Transformers.md",
     "Cohere LLM University/Module 2",
     "Cohere LLM University/LLM Basics/Similarity.md",
     "Cohere LLM University/LLM Basics/Attention.md",
-    "README.md",
     "Cohere LLM University/LLM Basics/Word and Sentence Embeddings.md",
     "Cohere LLM University/LLM Basics",
     "Cohere LLM University",
