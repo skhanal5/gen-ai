@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Building LLM Powered Applications/Transformers.md",
+                "file": "Building LLM Powered Applications/Customizing Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building LLM Powered Applications/Transformers.md",
+                "file": "Building LLM Powered Applications/Customizing Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building LLM Powered Applications/Transformers.md",
+                "file": "Building LLM Powered Applications/Customizing Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building LLM Powered Applications/Transformers.md"
+                "file": "Building LLM Powered Applications/Customizing Models.md"
               }
             }
           },
@@ -170,14 +170,14 @@
   },
   "active": "b43c55ed0c7d19e0",
   "lastOpenFiles": [
-    "Building LLM Powered Applications/Training Models.md",
-    "Building LLM Powered Applications/Stochastic Gradient Descent.md",
-    "Building LLM Powered Applications/Knowledge.md",
-    "Building LLM Powered Applications/Jargon.md",
     "Building LLM Powered Applications/Artificial Neural Networks.md",
+    "Building LLM Powered Applications/Jargon.md",
+    "Building LLM Powered Applications/Stochastic Gradient Descent.md",
+    "Building LLM Powered Applications/Training Models.md",
+    "Building LLM Powered Applications/Transformers.md",
+    "Building LLM Powered Applications/Knowledge.md",
     "Building LLM Powered Applications/Artificial Neural Network Architectures.md",
     "Building LLM Powered Applications/Customizing Models.md",
-    "Building LLM Powered Applications/Transformers.md",
     "Images",
     "Images/Transformer Diagram.png",
     "README.md",
