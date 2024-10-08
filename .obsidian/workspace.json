@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b43c55ed0c7d19e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Building LLM Powered Applications/Training Models/Stochastic Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee6fbd281639ea71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Building LLM Powered Applications/Using Models/LangChain/Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building LLM Powered Applications/Using Models/LangChain/Memory.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building LLM Powered Applications/Using Models/LangChain/Memory.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building LLM Powered Applications/Using Models/LangChain/Memory.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,13 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d10b9292b6c0cc50",
+  "active": "12ce66c87f490515",
   "lastOpenFiles": [
+    "Building LLM Powered Applications/Training Models/Stochastic Gradient Descent.md",
+    "TODO.md",
+    "README.md",
     "Building LLM Powered Applications/Vocabulary/Top Level Vocabulary.md",
     "Building LLM Powered Applications/Using Models/Customizing Models.md",
     "Building LLM Powered Applications/Using Models",
     "Building LLM Powered Applications/Training Models/Training Models.md",
-    "Building LLM Powered Applications/Training Models/Stochastic Gradient Descent.md",
     "Building LLM Powered Applications/Training Models",
     "Building LLM Powered Applications/Architecture/Transformers.md",
     "Building LLM Powered Applications/Architecture/Artificial Neural Networks.md",
@@ -213,7 +190,6 @@
     "Building LLM Powered Applications/Vocabulary/Alignment.md",
     "Building LLM Powered Applications/Existing LLM Models",
     "Building LLM Powered Applications/Vocabulary/Hallucinations.md",
-    "Building LLM Powered Applications/Vocabulary/Knowledge.md",
     "Building LLM Powered Applications/Vocabulary",
     "Images",
     "Images/Transformer Diagram.png",
