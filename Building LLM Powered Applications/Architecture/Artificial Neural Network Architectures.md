@@ -1,6 +1,6 @@
 ### About
 * During 80's and 90's, RNN's and LSTM's were popular architectures for ANN's
-* Nowadays, we use [[Building LLM Powered Applications/Transformers|Transformers]]
+* Nowadays, we use [[Building LLM Powered Applications/Architecture/Transformers|Transformers]]
 ### RNN's 
 * Recurrent neural networks 
 * Designed to handle sequential data 

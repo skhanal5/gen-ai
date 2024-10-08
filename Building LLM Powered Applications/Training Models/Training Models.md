@@ -18,6 +18,7 @@
 	1. Updating weights by feeding data and computing the loss function
 	2. LLM tries to minimize loss using an optimization algo
 		1. Gradient descent
+		2. [[Stochastic Gradient Descent]]
 6. Fine tuning
 	1. Model is trained with data in the following structure:
 		1. (prompt, ideal response)
