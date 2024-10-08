@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Retrieval Augmented Generation.md",
+                "file": "General/Chunking Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Retrieval Augmented Generation.md",
+                "file": "General/Chunking Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Retrieval Augmented Generation.md",
+                "file": "General/Chunking Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Retrieval Augmented Generation.md"
+                "file": "General/Chunking Strategies.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "ca84fa57fc0540d1",
   "lastOpenFiles": [
-    "Building LLM Powered Applications/Using Models/Prompt Engineering/Few Shot Learning.md",
     "General/Retrieval Augmented Generation.md",
+    "General/Chunking Strategies.md",
+    "Building LLM Powered Applications/Using Models/Prompt Engineering/Few Shot Learning.md",
     "README.md",
     "General",
     "Building LLM Powered Applications/Training Models/Stochastic Gradient Descent.md",
@@ -189,7 +190,6 @@
     "Building LLM Powered Applications/Existing LLM Models/Picking LLM.md",
     "Building LLM Powered Applications/Vocabulary/Autoregressive Model.md",
     "Building LLM Powered Applications/Existing LLM Models/Claude 2.md",
-    "Building LLM Powered Applications/Vocabulary/Alignment.md",
     "Building LLM Powered Applications/Existing LLM Models",
     "Building LLM Powered Applications/Vocabulary",
     "Images",
