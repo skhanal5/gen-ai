@@ -15,3 +15,4 @@ Notes corresponding to learnings from various generative AI resources. Created w
 		1. Customizing Models
 		2. Prompt Engineering
 		3. LangChain
+3. [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
