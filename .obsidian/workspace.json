@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Frameworks/Haystack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Haystack"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Frameworks/Haystack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Haystack"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Frameworks/Haystack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Haystack"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Frameworks/Haystack.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Haystack"
             }
           },
           {
@@ -175,8 +175,15 @@
   },
   "active": "ca84fa57fc0540d1",
   "lastOpenFiles": [
-    "TODO.md",
     "README.md",
+    "Frameworks/Haystack.md",
+    "Common Algorithms",
+    "Vector Stores",
+    "Frameworks",
+    "Chunking Strategy",
+    "Text Embedding",
+    "Architecture",
+    "TODO.md",
     "General/Chunking Strategies.md",
     "Building LLM Powered Applications/Using Models/LangChain/Data Connections.md",
     "General/Retrieval Augmented Generation.md",
@@ -197,20 +204,13 @@
     "Building LLM Powered Applications/Vocabulary/Similarity.md",
     "Building LLM Powered Applications/General Model Types/Completion Models.md",
     "Building LLM Powered Applications/Using Models/Prompt Engineering/ReAct.md",
-    "Building LLM Powered Applications/Using Models/LangChain",
     "Building LLM Powered Applications/Using Models/Prompt Engineering/Chain of Thought.md",
     "Building LLM Powered Applications/Existing LLM Models/LLaMA-2.md",
-    "Building LLM Powered Applications/Using Models/Prompt Engineering",
     "Building LLM Powered Applications/Existing LLM Models/GPT-4.md",
     "Building LLM Powered Applications/General Model Types/Assistant Models.md",
     "Building LLM Powered Applications/General Model Types/Base Models.md",
-    "Building LLM Powered Applications/General Model Types",
     "Building LLM Powered Applications/Existing LLM Models/Picking LLM.md",
     "Building LLM Powered Applications/Vocabulary/Autoregressive Model.md",
-    "Building LLM Powered Applications/Existing LLM Models/Claude 2.md",
-    "Building LLM Powered Applications/Existing LLM Models",
-    "Building LLM Powered Applications/Vocabulary",
-    "Images",
     "Images/Transformer Diagram.png"
   ]
 }
