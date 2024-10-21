@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Algorithms/Stochastic Gradient Descent.md",
+                "file": "Chunking Strategy/Determining Chunking Size.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stochastic Gradient Descent"
+              "title": "Determining Chunking Size"
             }
           }
         ],
@@ -190,16 +190,22 @@
   },
   "active": "5d003d7f676e629e",
   "lastOpenFiles": [
-    "Teaching Models/ReAct.md",
-    "Common Algorithms/Stochastic Gradient Descent.md",
-    "Training Models",
-    "Frameworks/Haystack.md",
+    "Chunking Strategy/Document Level Chunking.md",
+    "Chunking Strategy/Fixed Size.md",
+    "Chunking Strategy/Semantic Chunking.md",
+    "Chunking Strategy/Sentence Level Chunking.md",
+    "Chunking Strategy/What is Chunking.md",
+    "Chunking Strategy/Determining Chunking Size.md",
+    "Vector Algorithms/Similarity.md",
     "Teaching Models/Types of Knowledge.md",
+    "Teaching Models/ReAct.md",
     "Teaching Models/Fine Tuning.md",
     "Teaching Models/Few-shot Learning.md",
     "Teaching Models/Chain of Thought.md",
+    "Frameworks/Haystack.md",
+    "Common Algorithms/Stochastic Gradient Descent.md",
+    "Training Models",
     "Teaching Models",
-    "Vector Algorithms/Similarity.md",
     "Vector Algorithms",
     "Teaching Models/Learning Techniques",
     "README.md",
@@ -220,12 +226,6 @@
     "Building LLM Powered Applications/Training Models/Training Models.md",
     "Building LLM Powered Applications/Architecture/Transformers.md",
     "Building LLM Powered Applications/Architecture/Artificial Neural Networks.md",
-    "Building LLM Powered Applications/Architecture/Artificial Neural Network Architectures.md",
-    "Building LLM Powered Applications/Using Models/LangChain/Memory.md",
-    "Building LLM Powered Applications/Using Models/LangChain/LangChain.md",
-    "Building LLM Powered Applications/Vocabulary/Similarity.md",
-    "Building LLM Powered Applications/General Model Types/Completion Models.md",
-    "Building LLM Powered Applications/Using Models/Prompt Engineering/ReAct.md",
     "Images/Transformer Diagram.png"
   ]
 }
